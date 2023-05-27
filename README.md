@@ -1,6 +1,3 @@
-#<a href="https://github.com/anuraghazra/github-readme-stats">
-#  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jsilveira1409&count_private=true&show_icons=true" />
-#</a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsilveira1409&hide=html,SystemVerilog,Verilog,SWIG,Javascript,MakeFile" />
 </a>
