@@ -1,29 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Roboticist Profile</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-    }
-    .container {
-      display: flex;
-      justify-content: space-between;
-      align-items: flex-start;
-      max-width: 1000px;
-      margin: 0 auto;
-    }
-    .description {
-      flex: 1;
-      margin-right: 20px;
-    }
-    .github-stats {
-      flex: 1;
-    }
-  </style>
-</head>
+
 <h1 align="center"><b>Hi , I'm Joaquim Silveira </b><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjRsODdia21tcTJreGVxNnRlZHNwdXhoOWI2dWw3Z2YwZHJqbnp5YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26u6dIwIphLj8h10A/giphy.gif" width="35"></h1>
 
 <div align='center'>
